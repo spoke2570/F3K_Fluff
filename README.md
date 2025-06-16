@@ -17,6 +17,7 @@ To work this needs from you (or it won't work):
  
   
 Choices you will find in the congfigure screen:  
+
 	a) Flight timer source -> I am assuming here that you have a flight timer you like, so I want to provide information from it. This must exist.  
  
 	b) Work timer source -> Maybe you have one you like. Maybe you want it to be a sum of your flight times. Maybe you want mine that runs when RSSI is not 'zero'.  
