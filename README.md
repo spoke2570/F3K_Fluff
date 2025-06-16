@@ -13,7 +13,7 @@ To work this needs from you (or it won't work):
  
 	c) Launch mode (mode that says you are going to throw the plane)  
  
-	d) Zoom mode (last mode before regular flight). I assume this one ends as the plane glider is being nosed over into level flight.  
+	d) Zoom mode (last mode before regular flight). I assume this one ends as the model is being nosed over into level flight.  
  
   
 Choices you will find in the congfigure screen:  
