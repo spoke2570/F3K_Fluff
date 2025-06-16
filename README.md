@@ -1,5 +1,5 @@
 # F3K_Fluff_Mode_Based
-Sport flyer widget for FrSky ETHOS larger screen radio
+Sport flyer widget for FrSky ETHOS larger screen radios
 
 Thanks for looking at my F3K sport flyer widget. This guy was made to work with my own planes and I hope can be useful to others. Sorry Only in english with Si units, so meters and seconds are primary. Feel free to lift any part of this for whatever use.
 
