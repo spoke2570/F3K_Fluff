@@ -33,7 +33,7 @@ Choices you will find in the congfigure screen:
 	g) Play minutes -> This allows you to silence the calling of the whole minutes of your flight. It is arranged so that it will not play the seconds, only the minute increments of the flinght, eg. "1 min".."2 min"...  
  
 
-The widget was built for an X20S full window, or largest window (with the system header and footer), so I am unsure how it would look on a smaller screen. I can't imagine it will work well with less width. Screen locations are handled by what ever the system says the window size is. Fonts are hard coded.   
+The widget was built for an X20S full window, or largest window (with the system header and footer), so I am unsure how it would look on a smaller screen. I can't imagine it will work well with less width. Screen locations are handled by what ever the system says the window size is. Font sizes are hard coded.   
  
 The widget reports current flight conditions in the top row (largest font): Flight time,  Launch height, Launch drop, Current altitude, Maximum altitude.  
 
