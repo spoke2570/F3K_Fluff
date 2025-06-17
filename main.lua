@@ -161,6 +161,7 @@ local function avgValue(table)
     return nil -- Return nil if the table contains no numeric values
   end
 end
+
 -- takes in a table of integers returns sum of values or nil for empty table
 local function sumValues(table)
 
@@ -600,7 +601,8 @@ local function paint(widget)
     end
 end
 
---menu   
+--menu  
+ 
 --event handles key and screen hits
 local function event(widget, category) 
   
