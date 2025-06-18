@@ -1,4 +1,5 @@
 
+
 -- takes a multi dim table and compares a column value against a value returns true or false   
 local function tableCheck(table, column, value)
   for i, innerTable in ipairs(table) do
@@ -161,6 +162,7 @@ local function avgValue(table)
     return nil -- Return nil if the table contains no numeric values
   end
 end
+
 
 -- takes in a table of integers returns sum of values or nil for empty table
 local function sumValues(table)
