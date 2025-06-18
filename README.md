@@ -1,6 +1,9 @@
 # F3K_Fluff_Mode_Based
 Sport flyer widget for FrSky ETHOS larger screen radios
 
+![image](https://github.com/user-attachments/assets/a675d41b-7c95-4f4e-acc6-21a6705cfb25)
+
+
 Thanks for looking at my F3K sport flyer widget. This guy was made to work with my own planes and I hope can be useful to others. Sorry Only in english with Si units, so meters and seconds are primary. Feel free to lift any part of this for whatever use.
 
 This widget assumes that you have your model set up to have "launch" and "zoom" flight modes (defined below), a flight timer, and an altitude sensor that will keep maximum altitudes. Mine are all FrSky reciever based. 
