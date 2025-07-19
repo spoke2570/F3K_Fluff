@@ -25,17 +25,18 @@ To work this needs from you (or it won't work):
 1) Flight timer source
 2) Altitude source
 3) Launch mode (mode that says you are going to throw the plane)
-4) Zoom mode (last mode before regular flight). I assume this one ends as the model is being nosed over into level flight.	*** NOTE: Launch and zoom can be the same mode, but if they are different it is best ot set thins up like that. *** 
+4) Zoom mode (last mode before regular flight). I assume this one ends as the model is being nosed over into level flight.      
+   *** NOTE: Launch and zoom can be the same mode, but if they are different it is best ot set thins up like that. *** 
   
 Choices you will find in the congfigure screen:  
 
-	a) Flight timer source -> I am assuming here that you have a flight timer you like, so I want to provide information from it. This must exist.  
-	b) Work timer source -> Maybe you have one you like. Maybe you want it to be a sum of your flight times. Maybe you want mine that runs when the reciever is connected.  
-	c) Launch mode source -> Mode that says you ar going to throw the plane. This must exist.  
-	d) Zoom mode source -> Last mode before regular flight. This must exist but can be same and launch mode.  
-	e) Altidude sensor -> Defaults to whatever FrSky sensor is named "altitude". This must exist.   
-	f) Minimum altitude for good launch ->  This is the altiude when coming out of zoom. If it is too low the flight will not be recorded in the widget.  
-	g) Play minutes -> This allows you to silence the calling of the whole minutes of your flight. It is arranged so that it will not play the seconds, only the minute increments of the flinght, eg. "1 min".."2 min"...  
+1) Flight timer source -> I am assuming here that you have a flight timer you like, so I want to provide information from it. This must exist.
+2) Work timer source -> Maybe you have one you like. Maybe you want it to be a sum of your flight times. Maybe you want mine that runs when the reciever is connected.
+3) Launch mode source -> Mode that says you ar going to throw the plane. This must exist.
+4) Zoom mode source -> Last mode before regular flight. This must exist but can be same and launch mode.
+5) Altidude sensor -> Defaults to whatever FrSky sensor is named "altitude". This must exist.
+6) Minimum altitude for good launch ->  This is the altiude when coming out of zoom. If it is too low the flight will not be recorded in the widget.
+7) Play minutes -> This allows you to silence the calling of the whole minutes of your flight. It is arranged so that it will not play the seconds, only the minute increments of the flinght, eg. "1 min".."2 min"...  
  
 The widget was built for an X20S full window, or largest window (with the system header and footer). The simulators show that it will work in most screen sizes. If it does not feel free to modify the code and repost it. 
  
