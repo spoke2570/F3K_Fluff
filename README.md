@@ -2,11 +2,11 @@
 Sport flyer F3K/DLG widget for FrSky ETHOS
 ![image](https://github.com/user-attachments/assets/a675d41b-7c95-4f4e-acc6-21a6705cfb25)
 
-Thanks for looking at my F3K sport flyer widget. This guy was made to work with my own planes and I hope can be useful Ito others. Sorry Only in english with meters and hour:minute:seconds for units. Feel free to lift any part of this for whatever use. 
+Thanks for looking at my F3K sport flyer widget. This guy was made to work with my own planes and I hope can be useful to others. Sorry Only in english with meters and hours:minutes:seconds for units. Feel free to lift any part of this for whatever use. 
 
-Motivation for this was a  widget that was dedicated to just plane flying and used the timers and voice calls that I have configured my F3K model template to use independant from the widget environment. Many thanks to Static for the layout idea, strgaltdel for help understanding the ETTHOS environment, Bertrand's widget template for keeping me from getting lost, mikeshellim, LotharThole and every one else over at RCG who helps to make this knowledge accessible to amatures like me. 
+Motivation for this was a  widget that was dedicated to just plane flying and used the timers and voice calls that I have configured my F3K model template to use independant from the widget environment. Many thanks to Static for the layout idea, strgaltdel for help understanding the ETHOS environment, Bertrand's widget template for keeping me from getting lost, mikeshellim, LotharThole and every one else over at RCG who helps to make this knowledge accessible to amatures like me. 
 
-To use this widget, download and expand the .zip file in this repository and place the resulting folder "F3KFluff" in your radio's "Scripts" folder. Use the configure screens menue to get a full screen or full window widget screen. Use the configure widget menu to select the "F3K_Fluff" from the lest of available widgets, and configure the widget.      
+To use this widget, download and expand the .zip file in this repository and place the resulting folder "F3KFluff" in your radio's "Scripts" folder. Use the configure screens menue to get a full screen or full window widget screen. Use the configure widget menu to select the "F3K_Fluff" from the list of available widgets, and configure the widget.      
 *** NOTE: The naming convention of this widget is important to its operation, so please do not rename the folder that contains this widget.
 
 The widget wll make a folder inside the "F3KFluff" folder named "Session Data" that will contain unique session data for each model the script is used on. It is fairly readable with a text editor, and will rewrite itself each time the radio is shut off or the model is switched. 
