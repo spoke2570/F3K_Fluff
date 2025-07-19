@@ -4,17 +4,22 @@ Sport flyer widget for FrSky ETHOS
 
 Thanks for looking at my F3K sport flyer widget. This guy was made to work with my own planes and I hope can be useful Ito others. Sorry Only in english with Si units, so meters and seconds are primary. Feel free to lift any part of this for whatever use.
 
+To use this widget, download and expand the .zip file in this repository and place the resulting folder "F3KFluff" in your radio's "Scripts" folder. Use the configure screens menue to get a full screen or full window widget screen. Use the configure widget menu to select the "F3K_Fluff" from the lest of available widgets, and configure the widget.      
+*** NOTE: The naming convention for this widget is important to its operation, so please do not rename the folder that contains this widget.
+
+The widget wll make a folder inside the folder "F3KFluff" named "Session Data" that will contain unique session data for each model the script is used on. It is fairly readable with a text editor, and will rewrite itself each time the radio is shut off or the model is switched. 
+
 Features of this widget are:
 
 1) Current flight information on the top row (resets with a new launch)
 2) Flight session maximums in the left panel
 3) Flight session averages in the rigth panel with number of flights recorded
 4) Last 10 or 13 flights information in the center panel
-5) Displays reciver voltage when connected and transmitter voltage when not. 
-6) Ability to shut down radio and rejoin the previous session on restart (yep I gotta answer nature's call, too).      
+5) Displays reciver voltage when connected and transmitter voltage when not.
+6) Can be used on mutiple models in the same radio. 
+7) Ability to shut down radio and rejoin the previous session on restart (yep I gotta answer nature's call, too).      
    *** NOTE: This feature is unregulated at this point and is only intended for a daily session. Use for too many launches could overwhelm your system memory. So far I have run it at more than 60 flights with no problems. ***
-
-       
+      
 I have tested this to be pretty robust even when a new model with no flight modes or timers or telemetry is chosen. (Of course you would not want that sort of set up).
 
 This widget assumes that you have your model set up to have "launch" and "zoom" flight modes (defined below), a flight timer, and an altitude sensor that will keep maximum altitudes. Mine are all FrSky reciever based. 
