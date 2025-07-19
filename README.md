@@ -2,12 +2,12 @@
 Sport flyer widget for FrSky ETHOS
 ![image](https://github.com/user-attachments/assets/a675d41b-7c95-4f4e-acc6-21a6705cfb25)
 
-Thanks for looking at my F3K sport flyer widget. This guy was made to work with my own planes and I hope can be useful Ito others. Sorry Only in english with Si units, so meters and seconds are primary. Feel free to lift any part of this for whatever use.
+Thanks for looking at my F3K sport flyer widget. This guy was made to work with my own planes and I hope can be useful Ito others. Sorry Only in english with meters and hour:minute:seconds for units. Feel free to lift any part of this for whatever use.
 
 To use this widget, download and expand the .zip file in this repository and place the resulting folder "F3KFluff" in your radio's "Scripts" folder. Use the configure screens menue to get a full screen or full window widget screen. Use the configure widget menu to select the "F3K_Fluff" from the lest of available widgets, and configure the widget.      
-*** NOTE: The naming convention for this widget is important to its operation, so please do not rename the folder that contains this widget.
+*** NOTE: The naming convention of this widget is important to its operation, so please do not rename the folder that contains this widget.
 
-The widget wll make a folder inside the folder "F3KFluff" named "Session Data" that will contain unique session data for each model the script is used on. It is fairly readable with a text editor, and will rewrite itself each time the radio is shut off or the model is switched. 
+The widget wll make a folder inside the "F3KFluff" folder named "Session Data" that will contain unique session data for each model the script is used on. It is fairly readable with a text editor, and will rewrite itself each time the radio is shut off or the model is switched. 
 
 Features of this widget are:
 
@@ -30,7 +30,8 @@ To work this needs from you (or it won't work):
 2) Altitude source
 3) Launch mode (mode that says you are going to throw the plane)
 4) Zoom mode (last mode before regular flight). I assume this one ends as the model is being nosed over into level flight.      
-   *** NOTE: Launch and zoom can be the same mode, but if they are different it is best ot set thins up like that. *** 
+   *** NOTE: Launch and zoom can be the same mode, but if they are different it is best ot set thins up like that. ***
+   *** NOTE: This widget is based around meters for measurment of length, so your radio needs to be set for SI units, not imperial. ***
   
 Choices you will find in the congfigure screen:  
 
@@ -55,4 +56,14 @@ On the right side there are flight averages: Average flight time, Average launch
 Launch height is defined as the maximum altitude atained in the 3 seconds after leaving the last flight mode before normal flight, eg zoom.  
 
 Launch drop is defined as the difference between the launch height and the altitue at 3 seconds after last flight mode before normal flight.  
+
+When the model is changed or the radio is shut down it will write the session data that is displayed on the screen to a file that is unique to the model in use. 
+
+The system menu is used for interaction with the widget. When the model is loaded no stored data is displayed. The default is to start a new flying session.
+The system menu will show appropriate options when called to view by taping the screen twice or the enter key twice. 
+
+"Continue last session" is available when there is no data visible in the screen and there is a file containing previous data for the model.
+"Continue this session" is available when there is data loaded and visible on the screen, or there is no file containing prevoius data for the model.
+"Start new session" dumps any flight data currently visible on the screen and starts a fresh session. 
+
 	
