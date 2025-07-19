@@ -2,7 +2,9 @@
 Sport flyer F3K/DLG widget for FrSky ETHOS
 ![image](https://github.com/user-attachments/assets/a675d41b-7c95-4f4e-acc6-21a6705cfb25)
 
-Thanks for looking at my F3K sport flyer widget. This guy was made to work with my own planes and I hope can be useful Ito others. Sorry Only in english with meters and hour:minute:seconds for units. Feel free to lift any part of this for whatever use.
+Thanks for looking at my F3K sport flyer widget. This guy was made to work with my own planes and I hope can be useful Ito others. Sorry Only in english with meters and hour:minute:seconds for units. Feel free to lift any part of this for whatever use. 
+
+Motivation for this was a  widget that was dedicated to just plane flying and used the timers and voice calls that I have configured my F3K model template to use independant from the widget environment. Many thanks to Static for the layout idea, strgaltdel for help understanding the ETTHOS environment, Bertrand's widget template for keeping me from getting lost, mikeshellim, LotharThole and every one else over at RCG who helps to make this knowledge accessible to amatures like me. 
 
 To use this widget, download and expand the .zip file in this repository and place the resulting folder "F3KFluff" in your radio's "Scripts" folder. Use the configure screens menue to get a full screen or full window widget screen. Use the configure widget menu to select the "F3K_Fluff" from the lest of available widgets, and configure the widget.      
 *** NOTE: The naming convention of this widget is important to its operation, so please do not rename the folder that contains this widget.
@@ -18,7 +20,7 @@ Features of this widget are:
 5) Displays reciver voltage when connected and transmitter voltage when not.
 6) Can be used on mutiple models in the same radio. 
 7) Ability to shut down radio and rejoin the previous session on restart (yep I gotta answer nature's call, too).      
-   *** NOTE: This feature is unregulated at this point and is only intended for a daily session. Use for too many launches could overwhelm your system memory. So far I have run it at more than 60 flights with no problems. ***
+   *** NOTE: This feature is unregulated at this point and is only intended for a daily session. Use for too many launches could overwhelm your system memory. So far I have run it at more than 60 flights with no problems. 
       
 I have tested this to be pretty robust even when a new model with no flight modes or timers or telemetry is chosen. (Of course you would not want that sort of set up).
 
@@ -30,8 +32,8 @@ To work this needs from you (or it won't work):
 2) Altitude source
 3) Launch mode (mode that says you are going to throw the plane)
 4) Zoom mode (last mode before regular flight). I assume this one ends as the model is being nosed over into level flight.      
-   *** NOTE: Launch and zoom can be the same mode, but if they are different it is best ot set thins up like that. ***      
-   *** NOTE: This widget is based around meters for measurment of length, so your radio needs to be set for SI units, not imperial. ***
+   *** NOTE: Launch and zoom can be the same mode, but if they are different it is best ot set thins up like that.      
+   *** NOTE: This widget is based around meters for measurment of length, so your radio needs to be set for SI units, not imperial.
   
 Choices you will find in the congfigure screen:  
 
