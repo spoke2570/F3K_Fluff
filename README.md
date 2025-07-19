@@ -12,7 +12,7 @@ Features of this widget are:
 3) Flight session averages in the rigth panel with number of flights recorded
 4) Last 10 or 13 flights information in the center panel
 5) Displays reciver voltage when connected and transmitter voltage when not. 
-6) Ability to shut down radio and rejoin the previous session on restart (yep I gotta answer nature's call, too).
+6) Ability to shut down radio and rejoin the previous session on restart (yep I gotta answer nature's call, too).      
    *** NOTE: This feature is unregulated at this point and is only intended for a daily session. Use for too many launches could overwhelm your system memory. So far I have run it at more than 60 flights with no problems. ***
 
        
