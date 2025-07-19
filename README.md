@@ -40,7 +40,7 @@ Choices you will find in the congfigure screen:
 1) Flight timer source -> I am assuming here that you have a flight timer you like, so I want to provide information from it. This must exist.
 2) Work timer source -> Maybe you have one you like. Maybe you want it to be a sum of your flight times. Maybe you want mine that runs when the reciever is connected.
 3) Launch mode source -> Mode that says you ar going to throw the plane. This must exist.
-4) Zoom mode source -> Last mode before regular flight. This must exist but can be same and launch mode.
+4) Zoom mode source -> Last mode before regular flight. This must exist but can be same as launch mode.
 5) Altidude sensor -> Defaults to whatever FrSky sensor is named "altitude". This must exist.
 6) Minimum altitude for good launch ->  This is the altiude when coming out of zoom. If it is too low the flight will not be recorded in the widget.
 7) Play minutes -> This allows you to silence the calling of the whole minutes of your flight. It is arranged so that it will not play the seconds, only the minute increments of the flinght, eg. "1 min".."2 min"...  
