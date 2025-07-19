@@ -6,13 +6,16 @@ Sport flyer widget for FrSky ETHOS
 Thanks for looking at my F3K sport flyer widget. This guy was made to work with my own planes and I hope can be useful Ito others. Sorry Only in english with Si units, so meters and seconds are primary. Feel free to lift any part of this for whatever use.
 
 Features of this widget are:
-	1) Current flight information on the top row (resets with a new launch)
- 	2) Flight session maximums in the left panel 
-  	3) Flight session averages in the rigth panel with number of flights recorded
-   	4) Last 10 or 13 flights information in the center panel
-    	5) Ability to shut down radio and rejoin the previous session on restart (yep I gotta answer nature's call, too).
-     		*** This feature is unregulated at this point and is only intended for a daily session. Use for too many launches could overwhelm your system. So far I have run it at more than 60 flights with no problems. 
-       6) Displays reciver voltage when connected and transmitter voltage when not. 
+
+1) Current flight information on the top row (resets with a new launch)
+2) Flight session maximums in the left panel
+3) Flight session averages in the rigth panel with number of flights recorded
+4) Last 10 or 13 flights information in the center panel
+5) Displays reciver voltage when connected and transmitter voltage when not. 
+6) Ability to shut down radio and rejoin the previous session on restart (yep I gotta answer nature's call, too).
+   *** NOTE: This feature is unregulated at this point and is only intended for a daily session. Use for too many launches could overwhelm your system memory. So far I have run it at more than 60 flights with no problems. ***
+
+
        
 I have tested this to be pretty robust even when a new model with no flight modes or timers or telemetry is chosen. (Of course you would not want that sort of set up).
 
@@ -20,11 +23,10 @@ This widget assumes that you have your model set up to have "launch" and "zoom" 
 
 To work this needs from you (or it won't work):
 
-	a) Flight timer source  
-	b) Altitude source  
-	c) Launch mode (mode that says you are going to throw the plane)  
-	d) Zoom mode (last mode before regular flight). I assume this one ends as the model is being nosed over into level flight.  
- 		*** NOTE: Launch and zoom can be the same mode, but if they are different it is best ot set thins up like that. 
+1) Flight timer source
+2) Altitude source
+3) Launch mode (mode that says you are going to throw the plane)
+4) Zoom mode (last mode before regular flight). I assume this one ends as the model is being nosed over into level flight.	*** NOTE: Launch and zoom can be the same mode, but if they are different it is best ot set thins up like that. *** 
   
 Choices you will find in the congfigure screen:  
 
