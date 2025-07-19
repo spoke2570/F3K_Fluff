@@ -32,7 +32,7 @@ To work this needs from you (or it won't work):
 2) Altitude source
 3) Launch mode (mode that says you are going to throw the plane)
 4) Zoom mode (last mode before regular flight). I assume this one ends as the model is being nosed over into level flight.      
-   *** NOTE: Launch and zoom can be the same mode, but if they are different it is best ot set thins up like that.      
+   *** NOTE: Launch and zoom can be the same mode, but if they are different it is best ot set things up like that.      
    *** NOTE: This widget is based around meters for measurment of length, so your radio needs to be set for SI units, not imperial.
   
 Choices you will find in the congfigure screen:  
