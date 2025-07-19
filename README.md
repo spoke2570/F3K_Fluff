@@ -1,5 +1,5 @@
 # F3K_Fluff
-Sport flyer widget for FrSky ETHOS
+Sport flyer F3K/DLG widget for FrSky ETHOS
 ![image](https://github.com/user-attachments/assets/a675d41b-7c95-4f4e-acc6-21a6705cfb25)
 
 Thanks for looking at my F3K sport flyer widget. This guy was made to work with my own planes and I hope can be useful Ito others. Sorry Only in english with meters and hour:minute:seconds for units. Feel free to lift any part of this for whatever use.
@@ -30,7 +30,7 @@ To work this needs from you (or it won't work):
 2) Altitude source
 3) Launch mode (mode that says you are going to throw the plane)
 4) Zoom mode (last mode before regular flight). I assume this one ends as the model is being nosed over into level flight.      
-   *** NOTE: Launch and zoom can be the same mode, but if they are different it is best ot set thins up like that. ***
+   *** NOTE: Launch and zoom can be the same mode, but if they are different it is best ot set thins up like that. ***      
    *** NOTE: This widget is based around meters for measurment of length, so your radio needs to be set for SI units, not imperial. ***
   
 Choices you will find in the congfigure screen:  
@@ -63,7 +63,7 @@ The system menu is used for interaction with the widget. When the model is loade
 The system menu will show appropriate options when called to view by taping the screen twice or the enter key twice. 
 
 "Continue last session" is available when there is no data visible in the screen and there is a file containing previous data for the model.
-"Continue this session" is available when there is data loaded and visible on the screen, or there is no file containing prevoius data for the model.
+"Continue this session" is available when there is data loaded and visible on the screen, or there is no file containing prevoius data for the model.      
 "Start new session" dumps any flight data currently visible on the screen and starts a fresh session. 
 
 	
