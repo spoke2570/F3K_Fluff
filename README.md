@@ -2,7 +2,6 @@
 Sport flyer widget for FrSky ETHOS
 ![image](https://github.com/user-attachments/assets/a675d41b-7c95-4f4e-acc6-21a6705cfb25)
 
-
 Thanks for looking at my F3K sport flyer widget. This guy was made to work with my own planes and I hope can be useful Ito others. Sorry Only in english with Si units, so meters and seconds are primary. Feel free to lift any part of this for whatever use.
 
 Features of this widget are:
@@ -38,7 +37,7 @@ Choices you will find in the congfigure screen:
 6) Minimum altitude for good launch ->  This is the altiude when coming out of zoom. If it is too low the flight will not be recorded in the widget.
 7) Play minutes -> This allows you to silence the calling of the whole minutes of your flight. It is arranged so that it will not play the seconds, only the minute increments of the flinght, eg. "1 min".."2 min"...  
  
-The widget was built for an X20S full window, or largest window (with the system header and footer). The simulators show that it will work in most screen sizes. If it does not feel free to modify the code and repost it. 
+The widget was built for an X20S "full screen" window, or largest window (with the system header and footer). The simulators show that it will work for all of the radios that support ETHOS. I imagine the the smaller screened radios will make the text difficult to read.  
  
 The widget reports current flight conditions in the top row (largest font): Flight time,  Launch height, Launch drop, Current altitude, Maximum altitude.  
 
