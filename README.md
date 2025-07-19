@@ -15,7 +15,6 @@ Features of this widget are:
 6) Ability to shut down radio and rejoin the previous session on restart (yep I gotta answer nature's call, too).
    *** NOTE: This feature is unregulated at this point and is only intended for a daily session. Use for too many launches could overwhelm your system memory. So far I have run it at more than 60 flights with no problems. ***
 
-
        
 I have tested this to be pretty robust even when a new model with no flight modes or timers or telemetry is chosen. (Of course you would not want that sort of set up).
 
