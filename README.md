@@ -1,4 +1,4 @@
-# F3K_Fluff_Mode_Based
+# F3K_Fluff
 Sport flyer widget for FrSky ETHOS
 ![image](https://github.com/user-attachments/assets/a675d41b-7c95-4f4e-acc6-21a6705cfb25)
 
