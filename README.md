@@ -71,7 +71,7 @@ On the right side there are flight averages: Average flight time, Average launch
 ![234](https://github.com/user-attachments/assets/1bdd947e-a2a7-417f-b473-64e7fd5e8792)
 
 The system menu is used for interaction with the widget. When the model is loaded no stored data is displayed. The default is to start a new flying session.
-The system menu will show appropriate options when called to view by taping the screen twice or the enter key twice. 
+The system menu will show appropriate options when called to view by taping the screen twice or the enter key twice.      
 ![324](https://github.com/user-attachments/assets/d249f247-e837-494d-aa6d-b88a253d31c3)  ![53424](https://github.com/user-attachments/assets/adbcabde-fed1-4719-ad9a-2f10e9913caa)
 
 "Continue last session" is available when there is no data visible in the screen and there is a file containing previous data for the model.
