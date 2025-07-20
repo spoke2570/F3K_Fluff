@@ -67,14 +67,14 @@ On the left side there are flight maximums listed: Best flight time, Best launch
 ![11](https://github.com/user-attachments/assets/0c157ed9-a857-4056-9f18-ffd21d84a3db)      
 
 
-On the right side there are flight averages: Average flight time, Average launch height, Average launch drop. The bottom 2 slots in the colume are filled with the flight mode, and the reciever voltage (assuming the reciever is being run off of pack voltage and not a BEC).  
+On the right side there are flight averages: Average flight time, Average launch height, Average launch drop. The bottom 2 slots in the colume are filled with the number of recorded flights, and the reciever voltage (assuming the reciever is being run off of pack voltage and not a BEC), or the Tx voltage oif the reciever is not connected. .  
 ![234](https://github.com/user-attachments/assets/1bdd947e-a2a7-417f-b473-64e7fd5e8792)
 
 The system menu is used for interaction with the widget. When the model is loaded no stored data is displayed. The default is to start a new flying session.
 The system menu will show appropriate options when called to view by taping the screen twice or the enter key twice.      
 ![324](https://github.com/user-attachments/assets/d249f247-e837-494d-aa6d-b88a253d31c3)  ![53424](https://github.com/user-attachments/assets/adbcabde-fed1-4719-ad9a-2f10e9913caa)
 
-"Continue last session" is available when there is no data visible in the screen and there is a file containing previous data for the model.
+"Continue last session" is available when there is no data visible in the screen and there is a file containing previous data for the model.      
 "Continue this session" is available when there is data loaded and visible on the screen, or there is no file containing prevoius data for the model.      
 "Start new session" dumps any flight data currently visible on the screen and starts a fresh session. 
 
