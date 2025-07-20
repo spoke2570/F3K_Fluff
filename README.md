@@ -1,6 +1,5 @@
 # F3K_Fluff
 Sport flyer F3K/DLG widget for FrSky ETHOS
-![image](https://github.com/user-attachments/assets/a675d41b-7c95-4f4e-acc6-21a6705cfb25)
 
 Thanks for looking at my F3K sport flyer widget. This guy was made to work with my own planes and I hope can be useful to others. Sorry Only in english with meters and hours:minutes:seconds for units. Feel free to lift any part of this for whatever use. 
 
