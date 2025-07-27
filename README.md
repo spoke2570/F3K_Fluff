@@ -1,5 +1,5 @@
 # F3K_Fluff
-# Avalable for ETHOS 1.5.x and 1.6.x See the "Releases" page
+# Now altitude units folow those given by the chosen sensor
 Sport flyer F3K/DLG widget for FrSky ETHOS
 	![screenshot-2025-07-14-48964](https://github.com/user-attachments/assets/6c954d68-6ee2-4b90-9307-f03bf056cd9a)
 
