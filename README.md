@@ -4,7 +4,7 @@ Sport flyer F3K/DLG widget for FrSky ETHOS
 	![screenshot-2025-07-14-48964](https://github.com/user-attachments/assets/6c954d68-6ee2-4b90-9307-f03bf056cd9a)
 
 
-Thanks for looking at my F3K sport flyer widget. This guy was made to work with my own planes and I hope can be useful to others. Sorry Only in english with meters and hours:minutes:seconds for units. Feel free to lift any part of this for whatever use. 
+Thanks for looking at my F3K sport flyer widget. This guy was made to work with my own planes and I hope can be useful to others. Sorry Only in english. Feel free to lift any part of this for whatever use. 
 
 Motivation for this was a  widget that was dedicated to just plane flying and used the timers and voice calls that I have configured my F3K model template to use independant from the widget environment. Many thanks to Static for the layout idea, strgaltdel for help understanding the ETHOS environment, Bertrand's widget template for keeping me from getting lost, mikeshellim, LotharThole and every one else over at RCG who helps to make this knowledge accessible to amatures like me. 
 
